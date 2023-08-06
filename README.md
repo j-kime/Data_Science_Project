@@ -15,7 +15,7 @@ In conclusion, this model provides a good foundation but still requires more dat
 
 <b>Age distribution before cleaning and after cleaning</b>
 
-<img src="/Charts/pre_age.png" alt="pre_Age" width="500"/> <img src="/Charts/post_age.png" alt="pre_Age" width="500"/> 
+<img src="/Charts/pre_age.png" alt="pre_Age" width="400"/> <img src="/Charts/post_age.png" alt="pre_Age" width="400"/> 
 
 <b>Sex vs Age Box and Wisker plot before cleaning and after cleaning</b>
 
