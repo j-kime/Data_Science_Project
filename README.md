@@ -13,4 +13,26 @@ In conclusion, this model provides a good foundation but still requires more dat
 
 ## Data set graphs pre and post cleaned
 
-![]()
+<b>Age distribution before cleaning and after cleaning</b>
+
+<img src="/Charts/pre_age.png" alt="pre_Age" width="500"/> <img src="/Charts/post_age.png" alt="pre_Age" width="500"/> 
+
+<b>Sex vs Age Box and Wisker plot before cleaning and after cleaning</b>
+
+<img src="/Charts/pre_sex_vs_age.png" alt="pre_Sex_vs_Age" width="500"/> <img src="/Charts/post_sex_vs_age.png" alt="pre_Sex_vs_Age" width="500"/>
+
+<b>Length vs Age Scatterplot before cleaning and after cleaning</b>
+
+<img src="/Charts/pre_length_vs_age.png" alt="pre_Length_vs_Age" width="500"/> <img src="/Charts/post_length_vs_age.png" alt="pre_Length_vs_Age" width="500"/>
+
+<b>Height vs Age Scatterplot before cleaning and after cleaning</b>
+
+<img src="/Charts/pre_height_vs_age.png" alt="pre_Height_vs_Age" width="500"/> <img src="/Charts/post_height_vs_age.png" alt="pre_Height_vs_Age" width="500"/>
+
+<b>Weight vs Age Scatterplot before cleaning and after cleaning</b>
+
+<img src="/Charts/pre_weight_vs_age.png" alt="pre_Weight_vs_Age" width="500"/> <img src="/Charts/post_weight_vs_age.png" alt="pre_Weight_vs_Age" width="500"/>
+
+## Logistic Regression Confusion Matrix Results
+
+<img src="/Charts/confusion_matrix.png" alt="confusion_matrix"/>
